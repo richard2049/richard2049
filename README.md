@@ -18,7 +18,7 @@ A reproducible workflow integrating transcriptomics, plasma proteomics, and meth
 
 The project emphasizes cross-validation, multimodal concordance, data-linkage auditing, sensitivity analyses, and explicit limits on causal interpretation.
 
-[View the repository](/richard2049/Omix-exosome-rejuvenation)
+[View the repository](https://github.com/richard2049/Omix-exosome-rejuvenation)
 
 ### Human Immune Aging
 
@@ -26,7 +26,7 @@ A reproducible single-cell workflow for studying age-associated changes in immun
 
 The project uses scVI, Snakemake, age-associated signature analysis, and model evaluation on real-world public data.
 
-[View the repository](/richard2049/RNA_seq_and_more)
+[View the repository](https://github.com/richard2049/RNA_seq_and_more)
 
 ### Greenland Shark Longevity Genomics
 
@@ -34,7 +34,7 @@ An auditable comparative-genomics workflow for evaluating candidate mechanisms a
 
 The project emphasizes orthology, annotation quality, evidence tiers, artifact detection, provenance, and claim-level traceability.
 
-[View the repository](/richard2049/greenland-shark-longevity-genomics)
+[View the repository](https://github.com/richard2049/greenland-shark-longevity-genomics)
 
 ## Current Direction
 
