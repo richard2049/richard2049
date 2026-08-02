@@ -26,7 +26,7 @@ A reproducible single-cell workflow for studying age-associated changes in immun
 
 The project uses scVI, Snakemake, age-associated signature analysis, and model evaluation on real-world public data.
 
-[View the repository](https://github.com/richard2049/RNA_seq_and_more)
+[View the repository](https://github.com/richard2049/immune-aging-single-cell)
 
 ### Greenland Shark Longevity Genomics
 
